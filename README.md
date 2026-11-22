@@ -21,7 +21,7 @@ ServiceCore'un **Çağrı (INT)**, **Olay (INC)** ve **İstek (SR)** listelerini
 
 ## Kurulum ve ilk kullanım
 
-1. **Releases** bölümünden Windows ZIP paketini indirin ve kalıcı bir klasöre çıkarın. `ServiceCoreMonitor.exe` ile paketteki DLL dosyalarını aynı klasörde tutun.
+1. **Releases** bölümünden ZIP paketini indirin ve kalıcı bir klasöre çıkarın. `ServiceCoreMonitor.exe` ile paketteki DLL dosyalarını aynı klasörde tutun.
 2. VPN gerekiyorsa bağlanın, ardından `ServiceCoreMonitor.exe` dosyasını açın.
 3. **Uygulama adresi** alanına kurumunuzun ServiceCore adresini yazıp **Sayfayı aç** düğmesine basın. **Giriş / Kayıt Aç** sekmesinde normal kullanıcı hesabınızla oturum açın.
 4. Çağrı, Olay ve İstek sekmelerindeki **Liste adresi** alanları otomatik dolar. Kurumunuzda farklı yollar kullanılıyorsa bu alanları kendiniz düzenleyin.
